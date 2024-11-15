@@ -2,7 +2,7 @@ fun sendMessageToClient(
         client: Client?, message: String?, mailer: Mailer
 ) {
 
-    // sas3
+    // sas34
 }
 
 class Client(val personalInfo: PersonalInfo?)
