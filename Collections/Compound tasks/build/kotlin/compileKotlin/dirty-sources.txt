@@ -1,0 +1,2 @@
+/Users/andrei/AndroidStudioProjects/Kotlin Koans/Collections/Compound tasks/src/Shop.kt
+/Users/andrei/AndroidStudioProjects/Kotlin Koans/Collections/Compound tasks/src/Task.kt

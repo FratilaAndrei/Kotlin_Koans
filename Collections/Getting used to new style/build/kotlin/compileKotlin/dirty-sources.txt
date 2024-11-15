@@ -1,0 +1,1 @@
+/Users/andrei/AndroidStudioProjects/Kotlin Koans/Collections/Getting used to new style/src/Task.kt

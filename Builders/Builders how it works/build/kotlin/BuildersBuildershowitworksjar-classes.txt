@@ -1,0 +1,1 @@
+/Users/andrei/AndroidStudioProjects/Kotlin Koans/Builders/Builders how it works/build/classes/kotlin/main/Answer.class:/Users/andrei/AndroidStudioProjects/Kotlin Koans/Builders/Builders how it works/build/classes/kotlin/main/TaskKt.class

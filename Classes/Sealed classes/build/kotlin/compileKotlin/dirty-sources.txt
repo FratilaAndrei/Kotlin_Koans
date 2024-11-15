@@ -1,0 +1,1 @@
+/Users/andrei/AndroidStudioProjects/Kotlin Koans/Classes/Sealed classes/src/Task.kt
