@@ -1,8 +1,12 @@
 fun sendMessageToClient(
         client: Client?, message: String?, mailer: Mailer
 ) {
-
-    // sas3456
+        if (message != null) {
+            val email = client?.personalInfo?.email
+            if (email != null) {
+                mailer.sendMessage(email = email, message)
+            }
+        } else return
 }
 
 class Client(val personalInfo: PersonalInfo?)
