@@ -1,7 +1,7 @@
-# Ignore build outputs
+# Ignore build output
 /build/
 
-# Ignore Gradle-related files
+# Ignore Gradle files
 .gradle/
 *.gradle
 
@@ -12,13 +12,17 @@ local.properties
 .idea/
 *.iml
 
-# Ignore OS-specific files
+# OS generated files
 .DS_Store
 Thumbs.db
 
-# Ignore Kotlin-specific files
+# Kotlin specific
 *.kotlin_modules
 
-# Ignore log files, heap dumps, etc.
+# Ignore build-history.bin (or any other generated file)
+build-history.bin
+
+# Ignore log files and heap dumps
 *.log
 *.hprof
+
