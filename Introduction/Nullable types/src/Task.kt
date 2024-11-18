@@ -7,6 +7,7 @@ fun sendMessageToClient(
                 mailer.sendMessage(email = email, message)
             }
         } else return
+    // smth
 }
 
 class Client(val personalInfo: PersonalInfo?)
