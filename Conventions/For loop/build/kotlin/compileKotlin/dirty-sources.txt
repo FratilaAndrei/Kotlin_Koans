@@ -1,3 +1,0 @@
-/Users/andrei/AndroidStudioProjects/Kotlin Koans/Conventions/For loop/src/MyDate.kt
-/Users/andrei/AndroidStudioProjects/Kotlin Koans/Conventions/For loop/src/Task.kt
-/Users/andrei/AndroidStudioProjects/Kotlin Koans/Conventions/For loop/src/DateUtil.kt
